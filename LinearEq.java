@@ -15,6 +15,6 @@ public class LinearEq {
 		double res = (c - b) / a;
 
 		System.out.println(a + " * x + " + b + " = " + c);
-		System.out.println("X = " + res);
+		System.out.println("x = " + res);
 	}
 }
